@@ -23,4 +23,4 @@ console.log(combineValues(5, 8));
 
 let newCombineValues: (a: number, b: number) => number;
 newCombineValues = add;
-newCombineValues = printResult; // Error
+// newCombineValues = printResult; // Error
